@@ -13,10 +13,10 @@
 
 ## Проекты
 
-### [HotelMOST](https://github.com/loxlox14292-alt/HotelMOST)
+### [HotelMOST](https://github.com/artem-semin-dev/HotelMOST)
 
 Учебная информационная система отеля: настольное приложение на **Python, PyQt6 и MySQL**. Отдельные интерфейсы для гостя, менеджера и администратора, бронирования и PDF-отчёты.
 
-### [Image Dataset Checker](https://github.com/loxlox14292-alt/image-dataset-checker)
+### [Image Dataset Checker](https://github.com/artem-semin-dev/image-dataset-checker)
 
 Инструмент на Python для проверки набора изображений: поиск повреждённых файлов, дубликатов и изображений с недостаточным разрешением, формирование CSV-отчёта.
